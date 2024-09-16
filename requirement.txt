@@ -1,0 +1,8 @@
+gradio
+ollama
+openai
+requests
+pygame
+pydub
+dashscope
+langchain
